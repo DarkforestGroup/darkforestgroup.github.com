@@ -6,11 +6,11 @@
 	"file": "somewhere.zip"
     }
  ]},
-{"pyramid": [
+"pyramid": [
     {
         "romid": "ROMiD",
         "description": "Description",
         "link": "http://somewhere.com",
 	"file": "somewhere.zip"
     }
- ]}
+ ]}}
