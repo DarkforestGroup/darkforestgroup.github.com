@@ -1,7 +1,13 @@
 {
 "zeus": [
     {
-        "romid": "Darkforest ROM v4 ICS",
+        "romid": "Darkforest ROM v4.1.23 ICS",
+        "description": "Version 4.1.23, Xperia Play GSM, Android 4.0.3, AOSP-like, CM Music and Trebuchet",
+        "link": "http://icxperia.com/keiran/DFRv4/DFRv4.1.23.zip",
+	"file": "DFRv4.1.23.zip"
+    },    
+    {
+        "romid": "Darkforest ROM v4.1.11 ICS",
         "description": "Version 4.1.11, Xperia Play GSM, Android 4.0.3, AOSP-like",
         "link": "http://icxperia.com/keiran/DFRv4/DFRv4.1.11.zip",
 	"file": "DFRv4.1.11.zip"
