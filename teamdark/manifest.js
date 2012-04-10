@@ -38,10 +38,4 @@
 	"link": "http://icxperia.com/jonny/DarkForest%20Sensation/v5.3.0/DarkForest%20Sensation%20XE%20ICS%205.3.0.zip",
 	"file": "DarkForestSensationXEv5.3.0.zip"
     },
-    {
-	"romid": "Google Apps ICS Signed",
-	"description": "Google Apps - 17/03/12 - Face Unlock - For Android 4.0+",
-	"link": "http://icxperia.com/keiran/gapps/gapps-ics-20120317-signed.zip",
-	"file": "gapps-ics-20120317-signed.zip"
-    }
  ]}
