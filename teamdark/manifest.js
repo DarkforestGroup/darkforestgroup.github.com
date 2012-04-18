@@ -37,5 +37,5 @@
 	"description": "Version 5.3.0 ICS, Original Sensation, XE and 4G, Android 4.0.3, Sense 3.6",
 	"link": "http://icxperia.com/jonny/DarkForest%20Sensation/v5.3.0/DarkForest%20Sensation%20XE%20ICS%205.3.0.zip",
 	"file": "DarkForestSensationXEv5.3.0.zip"
-    },
+    }
  ]}
