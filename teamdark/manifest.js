@@ -21,6 +21,12 @@
  ],
 "pyramid": [
     {
+	"romid": "DarkForest Sensation XE 6.2.0",
+	"description": "Version 6.2.0 ICS, Original Sensation, XE and 4G, Android 4.0.3, Sense 3.6",
+	"link": "http://icxperia.com/jonny/DarkForest%20Sensation/v6.2.0/DarkForest%20Sensation%20XE%20ICS%206.2.0.zip",
+	"file": "DarkForestSensationXEv6.2.0.zip"
+    },
+    {
 	"romid": "DarkForest Sensation XE 6.1.0",
 	"description": "Version 6.1.0 ICS, Original Sensation, XE and 4G, Android 4.0.3, Sense 3.6",
 	"link": "http://icxperia.com/jonny/DarkForest%20Sensation/v6.1.0/DarkForest%20Sensation%20XE%20ICS%206.1.0.zip",
